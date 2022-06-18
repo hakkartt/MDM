@@ -1,0 +1,100 @@
+late-decade -> place3 fr=349 (0.6221), cf=1.000, gamma=1.607, delta=0.235, M=-3.686e+02 
+wild kmethod1 -> late-decade fr=332 (0.5918), cf=0.965, gamma=1.551, delta=0.210, M=-2.614e+02 
+wild kmethod1 -> place3 fr=332 (0.5918), cf=0.965, gamma=1.551, delta=0.210, M=-2.614e+02 
+wild early-decade -> kmethod3 fr=120 (0.2139), cf=0.909, gamma=3.723, delta=0.156, M=-2.013e+02 
+normal-food-intake kmethod1 -> late-decade fr=325 (0.5793), cf=0.881, gamma=1.416, delta=0.170, M=-1.666e+02 
+normal-food-intake kmethod1 -> place3 fr=325 (0.5793), cf=0.881, gamma=1.416, delta=0.170, M=-1.666e+02 
+early-decade lab -> place9 fr=46 (0.0820), cf=1.000, gamma=12.196, delta=0.075, M=-1.563e+02 
+summer lab -> place9 fr=46 (0.0820), cf=1.000, gamma=12.196, delta=0.075, M=-1.563e+02 
+kmethod1 lab -> place9 fr=46 (0.0820), cf=1.000, gamma=12.196, delta=0.075, M=-1.563e+02 
+normal-food-intake kmethod3 early-decade -> place2 fr=75 (0.1337), cf=0.708, gamma=5.292, delta=0.108, M=-1.561e+02 
+late-decade -> kmethod1 fr=332 (0.5918), cf=0.951, gamma=1.368, delta=0.159, M=-1.544e+02 
+place3 -> kmethod1 fr=332 (0.5918), cf=0.951, gamma=1.368, delta=0.159, M=-1.544e+02 
+winter kmethod3 early-decade -> place2 fr=62 (0.1105), cf=0.969, gamma=7.246, delta=0.095, M=-1.520e+02 
+wild normal-food-intake early-decade -> place2 fr=75 (0.1337), cf=0.652, gamma=4.878, delta=0.106, M=-1.459e+02 
+winter early-decade -> place2 fr=62 (0.1105), cf=0.925, gamma=6.922, delta=0.095, M=-1.437e+02 
+winter kmethod3 -> place2 fr=62 (0.1105), cf=0.912, gamma=6.820, delta=0.094, M=-1.412e+02 
+kmethod3 early-decade -> place2 fr=75 (0.1337), cf=0.625, gamma=4.675, delta=0.105, M=-1.409e+02 
+normal-food-intake kmethod3 -> place2 fr=75 (0.1337), cf=0.615, gamma=4.598, delta=0.105, M=-1.389e+02 
+no-extra-melatonin lab -> place9 fr=46 (0.0820), cf=0.852, gamma=10.389, delta=0.074, M=-1.356e+02 
+early-decade summer kmethod1 -> place9 fr=46 (0.0820), cf=0.836, gamma=10.200, delta=0.074, M=-1.337e+02 
+kmethod3 -> early-decade fr=120 (0.2139), cf=0.876, gamma=2.761, delta=0.136, M=-1.317e+02 
+wild early-decade -> place2 fr=75 (0.1337), cf=0.568, gamma=4.250, delta=0.102, M=-1.301e+02 
+early-decade kmethod1 -> place9 fr=46 (0.0820), cf=0.793, gamma=9.672, delta=0.074, M=-1.288e+02 
+place2 -> kmethod3 fr=75 (0.1337), cf=1.000, gamma=4.095, delta=0.101, M=-1.260e+02 
+kmethod4 -> freezer fr=34 (0.0606), cf=1.000, gamma=16.500, delta=0.057, M=-1.256e+02 
+wild early-decade summer -> place1 fr=52 (0.0927), cf=0.800, gamma=7.874, delta=0.081, M=-1.248e+02 
+normal-food-intake early-decade -> place2 fr=75 (0.1337), cf=0.500, gamma=3.740, delta=0.098, M=-1.164e+02 
+place9 -> lab fr=46 (0.0820), cf=1.000, gamma=7.012, delta=0.070, M=-1.042e+02 
+high-food-intake lab smallheart -> kmethod4 fr=30 (0.0535), cf=1.000, gamma=16.500, delta=0.050, M=-1.037e+02 
+high-food-intake lab smallheart -> freezer fr=30 (0.0535), cf=1.000, gamma=16.500, delta=0.050, M=-1.037e+02 
+high-food-intake smallheart -> kmethod4 fr=30 (0.0535), cf=0.968, gamma=15.968, delta=0.050, M=-1.003e+02 
+lab smallheart -> kmethod4 fr=30 (0.0535), cf=0.968, gamma=15.968, delta=0.050, M=-1.003e+02 
+high-food-intake smallheart -> freezer fr=30 (0.0535), cf=0.968, gamma=15.968, delta=0.050, M=-1.003e+02 
+lab smallheart -> freezer fr=30 (0.0535), cf=0.968, gamma=15.968, delta=0.050, M=-1.003e+02 
+place2 -> early-decade fr=75 (0.1337), cf=1.000, gamma=3.152, delta=0.091, M=-9.929e+01 
+female high-food-intake lab -> kmethod4 fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+weightnormal high-food-intake lab -> kmethod4 fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+high-food-intake adult lab -> kmethod4 fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+female high-food-intake lab -> freezer fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+weightnormal high-food-intake lab -> freezer fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+high-food-intake adult lab -> freezer fr=33 (0.0588), cf=0.767, gamma=12.663, delta=0.054, M=-9.798e+01 
+BMIsmall normal-food-intake -> weightlow fr=62 (0.1105), cf=0.827, gamma=4.684, delta=0.087, M=-9.766e+01 
+BMIsmall -> weightlow fr=63 (0.1123), cf=0.808, gamma=4.577, delta=0.088, M=-9.685e+01 
+high-food-intake lab -> kmethod4 fr=33 (0.0588), cf=0.750, gamma=12.375, delta=0.054, M=-9.660e+01 
+high-food-intake lab -> freezer fr=33 (0.0588), cf=0.750, gamma=12.375, delta=0.054, M=-9.660e+01 
+wild normal-appind early-decade -> place1 fr=57 (0.1016), cf=0.438, gamma=4.315, delta=0.078, M=-9.498e+01 
+liversmall smallheart -> kmethod4 fr=28 (0.0499), cf=1.000, gamma=16.500, delta=0.047, M=-9.455e+01 
+liversmall smallheart -> freezer fr=28 (0.0499), cf=1.000, gamma=16.500, delta=0.047, M=-9.455e+01 
+wild early-decade -> place1 fr=57 (0.1016), cf=0.432, gamma=4.250, delta=0.078, M=-9.385e+01 
+kmethod3 early-decade summer -> place1 fr=43 (0.0766), cf=0.768, gamma=7.557, delta=0.067, M=-9.141e+01 
+high-food-intake kmethod4 -> smallheart fr=30 (0.0535), cf=0.909, gamma=14.167, delta=0.050, M=-9.139e+01 
+high-food-intake freezer -> smallheart fr=30 (0.0535), cf=0.909, gamma=14.167, delta=0.050, M=-9.139e+01 
+female smallheart -> kmethod4 fr=30 (0.0535), cf=0.857, gamma=14.143, delta=0.050, M=-9.105e+01 
+weightnormal smallheart -> kmethod4 fr=30 (0.0535), cf=0.857, gamma=14.143, delta=0.050, M=-9.105e+01 
+female smallheart -> freezer fr=30 (0.0535), cf=0.857, gamma=14.143, delta=0.050, M=-9.105e+01 
+weightnormal smallheart -> freezer fr=30 (0.0535), cf=0.857, gamma=14.143, delta=0.050, M=-9.105e+01 
+female liversmall high-food-intake -> kmethod4 fr=29 (0.0517), cf=0.906, gamma=14.953, delta=0.048, M=-9.055e+01 
+female liversmall high-food-intake -> freezer fr=29 (0.0517), cf=0.906, gamma=14.953, delta=0.048, M=-9.055e+01 
+kmethod4 -> smallheart fr=30 (0.0535), cf=0.882, gamma=13.750, delta=0.050, M=-8.926e+01 
+freezer -> smallheart fr=30 (0.0535), cf=0.882, gamma=13.750, delta=0.050, M=-8.926e+01 
+late-decade -> wild fr=349 (0.6221), cf=1.000, gamma=1.166, delta=0.089, M=-8.916e+01 
+place3 -> wild fr=349 (0.6221), cf=1.000, gamma=1.166, delta=0.089, M=-8.916e+01 
+liversmall high-food-intake -> kmethod4 fr=29 (0.0517), cf=0.853, gamma=14.074, delta=0.048, M=-8.654e+01 
+liversmall high-food-intake -> freezer fr=29 (0.0517), cf=0.853, gamma=14.074, delta=0.048, M=-8.654e+01 
+extra-melatonin -> kmethod4 fr=26 (0.0463), cf=1.000, gamma=16.500, delta=0.044, M=-8.601e+01 
+extra-melatonin -> freezer fr=26 (0.0463), cf=1.000, gamma=16.500, delta=0.044, M=-8.601e+01 
+normal-appind early-decade summer -> place1 fr=52 (0.0927), cf=0.486, gamma=4.783, delta=0.073, M=-8.410e+01 
+early-decade summer -> place9 fr=46 (0.0820), cf=0.414, gamma=5.054, delta=0.066, M=-8.358e+01 
+female liversmall lab -> kmethod4 fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+female liversmall lab -> freezer fr=29 (0.0517), cf=0.806, gamma=13.292, delta=0.048, M=-8.316e+01 
+liversmall high-food-intake lab -> smallheart fr=28 (0.0499), cf=0.903, gamma=14.075, delta=0.046, M=-8.307e+01 
+early-decade summer kmethod1 -> lab fr=46 (0.0820), cf=0.836, gamma=5.865, delta=0.068, M=-8.221e+01 
+liversmall lab -> kmethod4 fr=29 (0.0517), cf=0.784, gamma=12.932, delta=0.048, M=-8.164e+01 
+liversmall lab -> freezer fr=29 (0.0517), cf=0.784, gamma=12.932, delta=0.048, M=-8.164e+01 
+early-decade summer -> place1 fr=52 (0.0927), cf=0.468, gamma=4.611, delta=0.073, M=-8.157e+01 
+female liversmall high-food-intake -> smallheart fr=28 (0.0499), cf=0.875, gamma=13.635, delta=0.046, M=-8.100e+01 
+female weightnormal lab -> kmethod4 fr=34 (0.0606), cf=0.493, gamma=8.130, delta=0.053, M=-8.014e+01 
+female weightnormal lab -> freezer fr=34 (0.0606), cf=0.493, gamma=8.130, delta=0.053, M=-8.014e+01 
+female no-sulcer high-food-intake -> kmethod4 fr=32 (0.0570), cf=0.593, gamma=9.778, delta=0.051, M=-7.955e+01 
+female no-sulcer high-food-intake -> freezer fr=32 (0.0570), cf=0.593, gamma=9.778, delta=0.051, M=-7.955e+01 
+female high-food-intake -> kmethod4 fr=33 (0.0588), cf=0.532, gamma=8.782, delta=0.052, M=-7.884e+01 
+female high-food-intake -> freezer fr=33 (0.0588), cf=0.532, gamma=8.782, delta=0.052, M=-7.884e+01 
+female adult lab -> kmethod4 fr=34 (0.0606), cf=0.479, gamma=7.901, delta=0.053, M=-7.882e+01 
+female adult lab -> freezer fr=34 (0.0606), cf=0.479, gamma=7.901, delta=0.053, M=-7.882e+01 
+lab BMIlarge -> kmethod4 fr=24 (0.0428), cf=1.000, gamma=16.500, delta=0.040, M=-7.794e+01 
+lab BMIlarge -> freezer fr=24 (0.0428), cf=1.000, gamma=16.500, delta=0.040, M=-7.794e+01 
+kmethod3 summer adult -> place1 fr=43 (0.0766), cf=0.632, gamma=6.224, delta=0.064, M=-7.759e+01 
+female liversmall weightnormal -> kmethod4 fr=29 (0.0517), cf=0.725, gamma=11.962, delta=0.047, M=-7.757e+01 
+female liversmall weightnormal -> freezer fr=29 (0.0517), cf=0.725, gamma=11.962, delta=0.047, M=-7.757e+01 
+female lab -> kmethod4 fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+weightnormal lab -> kmethod4 fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+female lab -> freezer fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+weightnormal lab -> freezer fr=34 (0.0606), cf=0.466, gamma=7.685, delta=0.053, M=-7.755e+01 
+early-decade kmethod1 -> lab fr=46 (0.0820), cf=0.793, gamma=5.562, delta=0.067, M=-7.747e+01 
+liversmall high-food-intake -> smallheart fr=28 (0.0499), cf=0.824, gamma=12.833, delta=0.046, M=-7.741e+01 
+no-sulcer weightnormal high-food-intake -> kmethod4 fr=32 (0.0570), cf=0.561, gamma=9.263, delta=0.051, M=-7.702e+01 
+no-sulcer high-food-intake adult -> kmethod4 fr=32 (0.0570), cf=0.561, gamma=9.263, delta=0.051, M=-7.702e+01 
+no-sulcer weightnormal high-food-intake -> freezer fr=32 (0.0570), cf=0.561, gamma=9.263, delta=0.051, M=-7.702e+01 
+no-sulcer high-food-intake adult -> freezer fr=32 (0.0570), cf=0.561, gamma=9.263, delta=0.051, M=-7.702e+01 
+kmethod3 summer -> place1 fr=43 (0.0766), cf=0.623, gamma=6.133, delta=0.064, M=-7.664e+01 

@@ -1,0 +1,561 @@
+winter weightlow female non-mother liversmall bathigh tailshort place2 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 child no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall tailshort place1 wild normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother taillong place3 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother bathigh taillong place9 lab BMIsmall high-appind high-food-intake no-sulcer kmethod1 child no-extra-melatonin early-decade
+summer weightlow female non-mother bathigh tailshort place3 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother bathigh place3 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother bathigh taillong place9 lab BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin early-decade
+winter weightlow female non-mother taillong place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother tailshort place3 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother taillong place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother taillong place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother taillong place9 lab BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin early-decade
+summer weightlow male non-mother tailshort place3 wild BMIsmall high-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother bathigh place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother bathigh place1 wild BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin early-decade
+winter weightlow male non-mother place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother taillong place3 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother taillong place9 lab BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin early-decade
+winter weightlow male non-mother liverlarge bathigh tailshort place2 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod3 child no-extra-melatonin early-decade
+winter weightlow male non-mother bathigh tailshort place2 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge bathigh place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother place3 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge bathigh place2 wild BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod3 child no-extra-melatonin early-decade
+winter weightlow male non-mother batlow taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother liverlarge place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother place9 lab BMIsmall high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow male non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother liversmall taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother liverlarge taillong place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother place1 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother place1 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liversmall bathigh tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother liverlarge place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother bathigh place2 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother taillong place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother tailshort place2 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother bathigh tailshort place2 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother bathigh place2 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother batlow taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod3 child no-extra-melatonin late-decade
+winter weightlow male non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother taillong place3 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother bathigh tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother batlow taillong place3 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge bathigh tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow male non-mother liverlarge bathigh tailshort place2 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod3 child no-extra-melatonin early-decade
+winter weightlow male non-mother bathigh place2 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother bathigh place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother liverlarge bathigh place2 wild adrenallarge BMIsmall bigheart normal-appind normal-food-intake has-sulcer kmethod3 child no-extra-melatonin early-decade
+winter weightnormal male non-mother liversmall place3 wild adrenalsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall tailshort place1 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother bathigh place2 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall tailshort place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightlow male non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother bathigh tailshort place2 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow male non-mother batlow taillong place3 wild smallheart normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother bathigh place1 wild BMIsmall normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightlow male non-mother bathigh place2 wild adrenalsmall BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge bathigh tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother liverlarge place3 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother tailshort place1 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother bathigh place2 wild BMIsmall high-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother taillong place2 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother liverlarge taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightlow female non-mother place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall bathigh taillong place7 lab adrenalsmall smallheart high-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightlow female non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother batlow place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother place3 wild BMIsmall high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother bathigh taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother bathigh tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother liverlarge place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall tailshort place1 wild adrenalsmall normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother bathigh place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place8 lab normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall place6 lab adrenalsmall smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightlow male non-mother place2 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge bathigh place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place2 wild high-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow female non-mother liverlarge place3 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place7 lab smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother taillong place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother taillong place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother bathigh place9 lab adrenalsmall BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab adrenalsmall normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab normal-appind high-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh tailshort place9 lab BMIsmall normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightlow female non-mother place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightlow male non-mother taillong place9 lab adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place2 wild adrenallarge BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother bathigh place2 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother place1 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother bathigh place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 child no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother liverlarge bathigh tailshort place2 wild BMIsmall bigheart normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightlow male non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh taillong place7 lab smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother bathigh tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow male non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place1 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother tailshort place1 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow male non-mother liverlarge bathigh place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liversmall bathigh place1 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother liversmall place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place1 wild normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place2 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liversmall tailshort place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place1 wild adrenallarge normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother taillong place6 lab normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place8 lab BMIlarge smallheart normal-appind high-food-intake has-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother bathigh taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall bathigh place7 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall bathigh place6 lab smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightnormal male non-mother place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall bathigh taillong place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother bathigh tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall bathigh taillong place7 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall bathigh place7 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightlow male non-mother liverlarge taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place3 wild adrenalsmall BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place1 wild adrenalsmall normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother bathigh place1 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab smallheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall place6 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place8 lab adrenalsmall smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall bathigh place7 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall bathigh place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place1 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place3 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place8 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother tailshort place1 wild adrenalsmall normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightlow female non-mother liverlarge bathigh tailshort place2 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place6 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother liversmall place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother bathigh place6 lab smallheart high-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+winter weightnormal male non-mother bathigh tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place6 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightlow male non-mother liverlarge bathigh place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall bathigh tailshort place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place6 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult no-extra-melatonin
+summer weightnormal male non-mother tailshort place1 wild adrenalsmall normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place8 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place7 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place2 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow taillong place3 wild smallheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightlow female non-mother liverlarge place1 wild adrenalsmall BMIsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother bathigh tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liversmall place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place2 wild BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother bathigh place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall tailshort place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liversmall bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh place8 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall place7 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother liversmall bathigh place8 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+freezer weightnormal female non-mother place8 lab normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild adrenallarge smallheart normal-appind high-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall place8 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place1 wild BMIsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild adrenalsmall BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother liversmall tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother liversmall place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild bigheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place9 lab normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother liversmall bathigh taillong place8 lab adrenalsmall BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother batlow place3 wild adrenalsmall BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother liversmall bathigh place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall batlow place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother bathigh tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother taillong place2 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge tailshort place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother bathigh tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge taillong place3 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+freezer weightnormal female non-mother place8 lab BMIlarge smallheart normal-appind high-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal female non-mother place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge bathigh tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother batlow tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother bathigh tailshort place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge bathigh tailshort place1 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild smallheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind high-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place2 wild adrenallarge BMIsmall normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place1 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother tailshort place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place1 wild adrenalsmall normal-appind high-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother bathigh place9 lab high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother batlow place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge taillong place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge tailshort place1 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother taillong place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother bathigh taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother liversmall tailshort place3 wild adrenalsmall BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother taillong place3 wild adrenallarge BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother batlow place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge bathigh place2 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother taillong place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge taillong place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place2 wild adrenallarge BMIlarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place1 wild normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge batlow place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge bathigh place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place1 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal male non-mother tailshort place2 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place2 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild adrenallarge BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow taillong place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother tailshort place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind high-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge taillong place3 wild adrenallarge high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place9 lab normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place9 lab normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+freezer weightnormal female non-mother liverlarge taillong place7 lab BMIlarge normal-appind normal-food-intake no-sulcer kmethod4 adult extra-melatonin
+summer weightnormal female non-mother liverlarge tailshort place1 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild smallheart normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother batlow place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal male non-mother place3 wild adrenalsmall normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place9 lab normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge taillong place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge batlow tailshort place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild adrenallarge BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother taillong place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal male non-mother place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow place3 wild high-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge batlow place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge batlow tailshort place3 wild normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge BMIlarge normal-appind high-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place1 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin early-decade
+winter weightnormal female non-mother liverlarge place3 wild adrenallarge BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge tailshort place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge taillong place3 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge bathigh place3 wild adrenallarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge batlow tailshort place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place2 wild adrenallarge BMIlarge normal-appind normal-food-intake no-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother taillong place2 wild BMIlarge normal-appind normal-food-intake has-sulcer kmethod3 adult no-extra-melatonin early-decade
+summer weightnormal female non-mother liverlarge batlow place3 wild adrenallarge normal-appind normal-food-intake has-sulcer kmethod1 adult no-extra-melatonin late-decade
+winter weightnormal female non-mother liverlarge bathigh place3 wild normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge tailshort place3 wild BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
+summer weightnormal female non-mother liverlarge place3 wild adrenallarge BMIlarge normal-appind normal-food-intake no-sulcer kmethod1 adult no-extra-melatonin late-decade
